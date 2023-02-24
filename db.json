@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Abid",
+      "lastName": "M",
+      "email": "abidmethal@gmail.com",
+      "dob": "2000-09-28T18:30:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "id": 2
+    },
+    {
+      "firstName": "Ameena Nuwaira",
+      "lastName": "Ameen",
+      "email": "ameenanuwaira@gmail.com",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "id": 3
+    }
+  ]
+}
